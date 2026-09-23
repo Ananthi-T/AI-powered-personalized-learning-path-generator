@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+html, body { scroll-behavior: smooth; }
+body { color: #E5E7EB; background-color: #0B0F19; }
+
+html.theme-dark body {
+  background-color: #0B0F19;
+  color: #E5E7EB;
+  background-image:
+    radial-gradient(1000px circle at 12% 15%, rgba(79,140,255,0.16), transparent 40%),
+    radial-gradient(800px circle at 88% 22%, rgba(139,92,246,0.12), transparent 45%),
+    linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
+  background-size: auto, auto, 32px 32px, 32px 32px;
+  background-position: 0 0, 0 0, 0 0, 0 0;
+}
+
+html.theme-light body {
+  background-color: #F8FAFC;
+  color: #111827;
+  background-image: none;
+}
+
+html.theme-blue body {
+  background-color: #0A1224;
+  color: #DBEAFE;
+  background-image:
+    radial-gradient(1000px circle at 20% 20%, rgba(79,140,255,0.22), transparent 42%),
+    radial-gradient(800px circle at 80% 28%, rgba(79,140,255,0.14), transparent 48%);
+  background-size: auto, auto;
+  background-position: 0 0, 0 0;
+}
+.blur-glass { backdrop-filter: blur(10px); }
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center px-6 py-3 rounded-lg bg-primary text-white shadow-glow transition relative overflow-hidden cursor-pointer;
+  }
+  .btn-primary:hover { @apply opacity-95; }
+  .btn-secondary {
+    @apply inline-flex items-center justify-center px-6 py-3 rounded-lg border border-white/10 bg-white/5 text-white transition cursor-pointer;
+  }
+  .btn-secondary:hover { @apply border-white/20 bg-white/10; }
+  .card { @apply rounded-xl border border-white/10 bg-white/5 p-6 transition; }
+  .card:hover { @apply border-white/20 bg-white/10 shadow-glow; }
+}
+
+.text-glow { text-shadow: 0 0 14px rgba(79,140,255,0.55); }

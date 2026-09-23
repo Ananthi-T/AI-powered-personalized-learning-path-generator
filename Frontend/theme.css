@@ -1,0 +1,13 @@
+:root {
+  --bg-obsidian: #0B0F19;
+  --ai-blue: #4F8CFF;
+  --ai-violet: #8B5CF6;
+  --text-soft: #E5E7EB;
+}
+
+.theme-gradient {
+  background-image:
+    radial-gradient(900px circle at 12% 20%, rgba(79,140,255,0.15), transparent 42%),
+    radial-gradient(700px circle at 88% 28%, rgba(139,92,246,0.12), transparent 48%);
+}
+
