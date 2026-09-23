@@ -1,0 +1,191 @@
+[
+  {
+    "_id": "f801cf27-1edb-4ed4-ae7c-bc2655747611",
+    "role": "Full-Stack Developer",
+    "skills": [
+      {
+        "skillName": "Programming Fundamentals",
+        "level": "beginner",
+        "prerequisites": [],
+        "unlocks": [
+          "Data Structures"
+        ],
+        "importanceWeight": 2
+      },
+      {
+        "skillName": "Data Structures",
+        "level": "beginner",
+        "prerequisites": [
+          "Programming Fundamentals"
+        ],
+        "unlocks": [
+          "Algorithms"
+        ],
+        "importanceWeight": 2
+      },
+      {
+        "skillName": "Algorithms",
+        "level": "intermediate",
+        "prerequisites": [
+          "Data Structures"
+        ],
+        "unlocks": [
+          "System Design"
+        ],
+        "importanceWeight": 2
+      },
+      {
+        "skillName": "System Design",
+        "level": "advanced",
+        "prerequisites": [
+          "Algorithms"
+        ],
+        "unlocks": [],
+        "importanceWeight": 3
+      }
+    ],
+    "createdAt": "2026-08-03T13:07:41.214Z",
+    "updatedAt": "2026-08-03T13:07:41.214Z"
+  },
+  {
+    "_id": "6c84175c-e6e8-4f3b-9f40-78d1ec6e3c5e",
+    "role": "",
+    "skills": [
+      {
+        "skillName": "Programming Fundamentals",
+        "level": "beginner",
+        "prerequisites": [],
+        "unlocks": [
+          "Data Structures"
+        ],
+        "importanceWeight": 2
+      },
+      {
+        "skillName": "Data Structures",
+        "level": "beginner",
+        "prerequisites": [
+          "Programming Fundamentals"
+        ],
+        "unlocks": [
+          "Algorithms"
+        ],
+        "importanceWeight": 2
+      },
+      {
+        "skillName": "Algorithms",
+        "level": "intermediate",
+        "prerequisites": [
+          "Data Structures"
+        ],
+        "unlocks": [
+          "System Design"
+        ],
+        "importanceWeight": 2
+      },
+      {
+        "skillName": "System Design",
+        "level": "advanced",
+        "prerequisites": [
+          "Algorithms"
+        ],
+        "unlocks": [],
+        "importanceWeight": 3
+      }
+    ],
+    "createdAt": "2026-08-03T13:45:01.086Z",
+    "updatedAt": "2026-08-03T13:45:01.086Z"
+  },
+  {
+    "_id": "63aae78e-f02b-4924-911c-59457569f877",
+    "role": "Frontend Developer",
+    "skills": [
+      {
+        "skillName": "Programming Fundamentals",
+        "level": "beginner",
+        "prerequisites": [],
+        "unlocks": [
+          "Data Structures"
+        ],
+        "importanceWeight": 2
+      },
+      {
+        "skillName": "Data Structures",
+        "level": "beginner",
+        "prerequisites": [
+          "Programming Fundamentals"
+        ],
+        "unlocks": [
+          "Algorithms"
+        ],
+        "importanceWeight": 2
+      },
+      {
+        "skillName": "Algorithms",
+        "level": "intermediate",
+        "prerequisites": [
+          "Data Structures"
+        ],
+        "unlocks": [
+          "System Design"
+        ],
+        "importanceWeight": 2
+      },
+      {
+        "skillName": "System Design",
+        "level": "advanced",
+        "prerequisites": [
+          "Algorithms"
+        ],
+        "unlocks": [],
+        "importanceWeight": 3
+      },
+      {
+        "skillName": "HTML",
+        "level": "beginner",
+        "prerequisites": [],
+        "unlocks": [
+          "CSS",
+          "Accessibility"
+        ],
+        "importanceWeight": 1
+      },
+      {
+        "skillName": "CSS",
+        "level": "beginner",
+        "prerequisites": [
+          "HTML"
+        ],
+        "unlocks": [
+          "Responsive Design"
+        ],
+        "importanceWeight": 1
+      },
+      {
+        "skillName": "JavaScript",
+        "level": "beginner",
+        "prerequisites": [
+          "HTML",
+          "CSS"
+        ],
+        "unlocks": [
+          "React",
+          "TypeScript"
+        ],
+        "importanceWeight": 2
+      },
+      {
+        "skillName": "React",
+        "level": "intermediate",
+        "prerequisites": [
+          "JavaScript"
+        ],
+        "unlocks": [
+          "Advanced React Patterns"
+        ],
+        "importanceWeight": 2
+      }
+    ],
+    "createdAt": "2026-08-24T06:04:35.486Z",
+    "updatedAt": "2026-08-24T06:04:35.486Z"
+  }
+]

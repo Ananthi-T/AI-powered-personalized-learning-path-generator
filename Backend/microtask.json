@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "3eb8fdae-9851-45de-ac1a-f3c92ed5383c",
+    "userId": "04107700-d8f4-40ef-bcb2-dd2bab7a2ed4",
+    "title": "Extend Project using React",
+    "description": "Feature extension",
+    "instructions": "Add a new capability using React and document trade-offs.",
+    "resourceUrl": "https://www.frontendmentor.io/challenges?languages=CSS",
+    "taskType": "practice",
+    "skill": "React",
+    "status": "pending",
+    "createdAt": "2026-08-24T08:31:21.004Z",
+    "date": "2026-08-24",
+    "updatedAt": "2026-08-24T08:31:21.007Z"
+  },
+  {
+    "_id": "d403f767-14fe-405a-bbde-563ed0dfc598",
+    "userId": "04107700-d8f4-40ef-bcb2-dd2bab7a2ed4",
+    "title": "Read React Advanced Guides",
+    "description": "Performance and architecture",
+    "instructions": "Identify a performance tip to try.",
+    "resourceUrl": "https://developer.mozilla.org/en-US/search?q=React",
+    "taskType": "read",
+    "skill": "React",
+    "status": "pending",
+    "createdAt": "2026-08-26T13:03:40.087Z",
+    "date": "2026-08-26",
+    "updatedAt": "2026-08-26T13:03:40.096Z"
+  }
+]13:03:40.096Z"
+  }
+]6Z"
+  }
+]

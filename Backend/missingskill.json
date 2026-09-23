@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "a2637f8a-2267-4216-8f3a-5028ab297ac8",
+    "userId": "04107700-d8f4-40ef-bcb2-dd2bab7a2ed4",
+    "skillName": "React",
+    "level": "intermediate",
+    "progress": 0,
+    "completed": false,
+    "createdAt": "2026-08-24T06:05:06.502Z",
+    "updatedAt": "2026-08-24T06:05:06.502Z"
+  },
+  {
+    "_id": "c41db2f6-8b66-4bfa-b6fb-44b9a27f0e6f",
+    "userId": "04107700-d8f4-40ef-bcb2-dd2bab7a2ed4",
+    "skillName": "System Design",
+    "level": "advanced",
+    "progress": 0,
+    "completed": false,
+    "createdAt": "2026-08-24T06:05:06.513Z",
+    "updatedAt": "2026-08-24T06:05:06.513Z"
+  }
+]

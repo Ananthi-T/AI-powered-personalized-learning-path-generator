@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "a1845a16-9ce4-4c33-96c7-430913508e68",
+    "userId": "e2f7629c-5ae3-4e07-b784-89ebe57de180",
+    "skill": "React",
+    "history": [
+      {
+        "date": "2026-08-03T13:08:28.798Z",
+        "score": 1,
+        "level": "Beginner",
+        "timeTakenSeconds": 0,
+        "masteryLevel": "Low"
+      }
+    ],
+    "createdAt": "2026-08-03T13:08:28.800Z",
+    "updatedAt": "2026-08-03T13:08:28.800Z"
+  }
+]

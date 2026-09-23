@@ -1,0 +1,267 @@
+[
+  {
+    "_id": "04107700-d8f4-40ef-bcb2-dd2bab7a2ed4",
+    "name": "Ananthi T",
+    "email": "ananthi877831@gmail.com",
+    "passwordHash": "$2a$10$8mUONjGr8TsOnZK1s2wTXeu5TAhYiX94YDqVqJiQ2Rl0ra9fvIJo.",
+    "createdAt": "2025-12-27T13:21:08.556Z",
+    "profileCompleted": true,
+    "profile": {
+      "knownSkills": [
+        "HTML"
+      ],
+      "careerGoal": "Full-Stack Developer",
+      "dob": "2005-06-23",
+      "gender": "Female",
+      "state": "Tamil Nadu",
+      "city": "Knachipuram",
+      "phone": "9345633141",
+      "educationLevel": "Other",
+      "institutionName": "Jeppiaar institute of technology",
+      "branch": "B.Tech",
+      "currentRole": "Student",
+      "skillLevel": "Beginner",
+      "weeklyLearningTime": "3-5 hrs/week"
+    },
+    "preferences": {
+      "language": "English",
+      "theme": "Dark",
+      "aiConsent": true,
+      "tracking": true
+    }
+  },
+  {
+    "_id": "389b35e3-11f9-4e8d-9677-abafc155d5d7",
+    "name": "T.Aarthi",
+    "email": "aarthi877@gmail.com",
+    "passwordHash": "$2a$10$rBWgWO6rCTM07IqR7emmzeVosoxEEijTEyJjDSxUN5CRAjW3fc8wq",
+    "createdAt": "2025-12-30T14:53:58.760Z",
+    "profileCompleted": true,
+    "profile": {
+      "knownSkills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "dob": "2005-06-23",
+      "gender": "Female",
+      "state": "Tamil Nadu",
+      "city": "kanchipuram",
+      "phone": "9345675520",
+      "educationLevel": "Other",
+      "institutionName": "jeppiaar institute of technology",
+      "branch": "B.Tech",
+      "currentRole": "Student",
+      "careerGoal": "Full-Stack Developer",
+      "skillLevel": "Intermediate",
+      "weeklyLearningTime": "6-10 hrs/week"
+    }
+  },
+  {
+    "_id": "d13254b0-ff6e-4a47-8fd7-c95bfe868b18",
+    "name": "poonkodi",
+    "email": "poo@gmail.com",
+    "passwordHash": "$2a$10$d8hr3vjnLx1jO0SQ5Jj1KuSbiMgT/vgWLDVrtGAo1OrIj0iMiOCHu",
+    "createdAt": "2026-07-23T18:40:16.860Z",
+    "profileCompleted": true,
+    "profile": {
+      "knownSkills": [
+        "HTML",
+        "CSS",
+        "Python",
+        "prompt engineering"
+      ],
+      "dob": "2006-07-20",
+      "state": "Tamil Nadu",
+      "city": "Kanchipuram",
+      "phone": "807299975",
+      "educationLevel": "Other",
+      "institutionName": "saveeths engineering college",
+      "branch": "B.Tech",
+      "currentRole": "Student",
+      "careerGoal": "AI Engineer",
+      "skillLevel": "Beginner",
+      "weeklyLearningTime": "3-5 hrs/week"
+    }
+  },
+  {
+    "_id": "0866ea4e-9033-4148-8b0b-168a7f5f7b4e",
+    "name": "Test User",
+    "email": "test@example.com",
+    "passwordHash": "$2a$10$K08Igd3RSeqSYKZ/UJ3RGuwZK/VeaDGVQtyiLMKp2.1AsIxrJdRau",
+    "createdAt": "2026-07-23T19:50:42.049Z",
+    "profileCompleted": false,
+    "preferences": {
+      "language": "English",
+      "theme": "Dark",
+      "aiConsent": true,
+      "tracking": true
+    }
+  },
+  {
+    "_id": "e2f7629c-5ae3-4e07-b784-89ebe57de180",
+    "name": "Test User",
+    "email": "test0380396725@pathwise.dev",
+    "passwordHash": "$2a$10$FfOen.fQKA8Uvtn.zC0cCeo7JHHsmNG6jLEi82A5YREi2K.h8w90.",
+    "createdAt": "2026-08-03T13:07:32.487Z",
+    "profileCompleted": true,
+    "preferences": {
+      "language": "Tamil",
+      "theme": "Blue Light",
+      "aiConsent": true,
+      "tracking": true
+    },
+    "profile": {
+      "educationLevel": "Bachelor's",
+      "learningStyle": "Mixed",
+      "fullName": "Test User",
+      "state": "California",
+      "careerGoal": "Full-Stack Developer",
+      "weeklyLearningTime": "6-10 hrs/week",
+      "dob": "1999-01-01",
+      "institutionName": "Test University",
+      "branch": "CSE",
+      "skillLevel": "Beginner",
+      "knownSkills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "phone": "5550001234",
+      "city": "SF",
+      "currentRole": "Student",
+      "gender": "Other"
+    }
+  },
+  {
+    "_id": "875396da-dd39-4ef8-a32b-675c24719d7c",
+    "name": "Test User",
+    "email": "test_2aff4d43@example.com",
+    "passwordHash": "$2a$10$k6Bcfzm1fKTULm2KccEVvOeKN6buuhT0Oo3Ph/ra1XCXPMy68XJiO",
+    "createdAt": "2026-08-03T13:17:39.326Z",
+    "profileCompleted": true,
+    "preferences": {
+      "language": "English",
+      "theme": "Dark",
+      "aiConsent": true,
+      "tracking": true
+    },
+    "profile": {
+      "currentRole": "Student",
+      "knownSkills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "learningStyle": "Mixed",
+      "skillLevel": "Beginner",
+      "careerGoal": "Full-Stack Developer",
+      "weeklyLearningTime": "6-10 hrs/week"
+    }
+  },
+  {
+    "_id": "9cab183e-2351-423b-a4ed-94a838bd4049",
+    "name": "Bug Test",
+    "email": "bugtest_d09d6895@example.com",
+    "passwordHash": "$2a$10$Cjz5yaJ/3Zy3yWEm4LM0vOdx.Z.x2LYaLSVUuMkdV7B6E7hS4EMdi",
+    "createdAt": "2026-08-03T13:32:35.541Z",
+    "profileCompleted": false,
+    "preferences": {
+      "language": "English",
+      "theme": "Dark",
+      "aiConsent": true,
+      "tracking": true
+    }
+  },
+  {
+    "_id": "79462732-b2a6-40e1-8798-f9d1d1ce3e68",
+    "name": "Browser Test User",
+    "email": "browser_test@example.com",
+    "passwordHash": "$2a$10$5oZ0UvyRxSiKBrV5kwjK2udHsTA.cenO84dJ9e4nCOXiSjnJSLrmG",
+    "createdAt": "2026-08-03T13:34:42.979Z",
+    "profileCompleted": true,
+    "preferences": {
+      "language": "English",
+      "theme": "Dark",
+      "aiConsent": true,
+      "tracking": true
+    },
+    "profile": {
+      "knownSkills": [],
+      "skipped": true
+    }
+  },
+  {
+    "_id": "545b41c4-ccff-4bce-a623-4b23c57304dc",
+    "name": "Final Flow User",
+    "email": "finalflow@example.com",
+    "passwordHash": "$2a$10$98b8GjGjmj5tajQMDiZzeeANV79NbwfKsX/eNCngENCteFV/18uUq",
+    "createdAt": "2026-08-03T13:37:12.861Z",
+    "profileCompleted": false,
+    "preferences": {
+      "language": "English",
+      "theme": "Dark",
+      "aiConsent": true,
+      "tracking": true
+    }
+  },
+  {
+    "_id": "d6a7446b-dbbc-48c0-b5b5-1e736935af2a",
+    "name": "anand",
+    "email": "anand123@gmail.com",
+    "passwordHash": "$2a$10$GLj2NGhvVlRHmAO34z8Uy.UQoQK3ZRYV7YnRPRTKSHTXe5pjsT0sW",
+    "createdAt": "2026-08-03T13:43:14.039Z",
+    "profileCompleted": true,
+    "preferences": {
+      "language": "English",
+      "theme": "Dark",
+      "aiConsent": true,
+      "tracking": true
+    },
+    "profile": {
+      "knownSkills": [
+        "machine learning"
+      ],
+      "dob": "2006-03-03",
+      "gender": "Male",
+      "state": "Tamil Nadu",
+      "city": "Kanchipuram",
+      "phone": "9345633141",
+      "educationLevel": "Other",
+      "institutionName": "jeppiaar institute of technology",
+      "branch": "B.Tech",
+      "currentRole": "Student",
+      "careerGoal": "Data Scientist",
+      "skillLevel": "Beginner",
+      "weeklyLearningTime": "6-10 hrs/week"
+    }
+  },
+  {
+    "_id": "b3a11847-22aa-4632-b4d1-e67552f76d72",
+    "name": "Test User",
+    "email": "testuser+pathwise2@example.com",
+    "passwordHash": "$2a$10$9wIYTXxSOgqyu/yxzIpQv.jCjj3Iw19UW89CEM7vvzFmkaJHYB8Ey",
+    "createdAt": "2026-08-12T13:40:00.347Z",
+    "profileCompleted": false,
+    "preferences": {
+      "language": "English",
+      "theme": "Dark",
+      "aiConsent": true,
+      "tracking": true
+    }
+  },
+  {
+    "_id": "98aec029-df34-4450-8a74-f69456954fcb",
+    "name": "PathWise Test",
+    "email": "testuser+pathwise-1786549639313@example.com",
+    "passwordHash": "$2a$10$KcdQIQZfi2R/aGb0OAfYqe8V/Rt4tMiyNav7ai/5Xf8XR7lpujLC6",
+    "createdAt": "2026-08-12T15:47:25.267Z",
+    "profileCompleted": false,
+    "preferences": {
+      "language": "English",
+      "theme": "Dark",
+      "aiConsent": true,
+      "tracking": true
+    }
+  }
+]

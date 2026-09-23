@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "e724834f-f5a2-4a44-a435-8fbd8a45ae66",
+    "userId": "e2f7629c-5ae3-4e07-b784-89ebe57de180",
+    "targetRole": "Full-Stack Developer",
+    "readinessScore": 0,
+    "missingSkills": {
+      "beginner": [
+        "Programming Fundamentals",
+        "Data Structures"
+      ],
+      "intermediate": [
+        "Algorithms"
+      ],
+      "advanced": [
+        "System Design"
+      ]
+    },
+    "estimatedMonths": 3,
+    "confidenceLevel": "Low",
+    "status": "completed",
+    "generatedAt": "2026-08-03T13:07:41.220Z",
+    "createdAt": "2026-08-03T13:07:41.221Z",
+    "updatedAt": "2026-08-03T13:07:41.221Z"
+  },
+  {
+    "_id": "1170e940-29a1-46e4-9c7f-b6125d8d5f3a",
+    "userId": "d6a7446b-dbbc-48c0-b5b5-1e736935af2a",
+    "targetRole": "",
+    "readinessScore": 0,
+    "missingSkills": {
+      "beginner": [
+        "Programming Fundamentals",
+        "Data Structures"
+      ],
+      "intermediate": [
+        "Algorithms"
+      ],
+      "advanced": [
+        "System Design"
+      ]
+    },
+    "estimatedMonths": 3,
+    "confidenceLevel": "Low",
+    "status": "completed",
+    "generatedAt": "2026-08-03T13:45:01.091Z",
+    "createdAt": "2026-08-03T13:45:01.093Z",
+    "updatedAt": "2026-08-03T13:45:01.093Z"
+  },
+  {
+    "_id": "52208e8d-1370-4bfa-bcd2-6502c58901b1",
+    "userId": "04107700-d8f4-40ef-bcb2-dd2bab7a2ed4",
+    "targetRole": "",
+    "readinessScore": 0,
+    "missingSkills": {
+      "beginner": [
+        "Programming Fundamentals",
+        "Data Structures"
+      ],
+      "intermediate": [
+        "Algorithms"
+      ],
+      "advanced": [
+        "System Design"
+      ]
+    },
+    "estimatedMonths": 6,
+    "confidenceLevel": "Low",
+    "status": "completed",
+    "generatedAt": "2026-08-24T08:33:14.390Z",
+    "createdAt": "2026-08-24T06:04:35.491Z",
+    "updatedAt": "2026-08-24T08:33:14.391Z"
+  }
+]

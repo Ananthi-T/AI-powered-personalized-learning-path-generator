@@ -1,0 +1,391 @@
+[
+  {
+    "_id": "32bd3610-b23e-4b97-ab52-ca5c5b1772ad",
+    "userId": "e2f7629c-5ae3-4e07-b784-89ebe57de180",
+    "skill": "React",
+    "level": "Beginner",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "MCQ",
+        "question": "What does useState return in a React function component?",
+        "options": [
+          "A class instance",
+          "A value and a setter function",
+          "Only a reducer",
+          "A DOM node"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "beginner"
+      },
+      {
+        "id": "q2",
+        "type": "MCQ",
+        "question": "Which attribute is required when rendering lists to help React track items?",
+        "options": [
+          "class",
+          "style",
+          "key",
+          "id"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "beginner"
+      },
+      {
+        "id": "q3",
+        "type": "MCQ",
+        "question": "Which statement about props is correct?",
+        "options": [
+          "Props are mutable by children",
+          "Props are used to pass data from parent to child",
+          "Props always update the parent state",
+          "Props can be set via setProps"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "beginner"
+      },
+      {
+        "id": "q4",
+        "type": "Short",
+        "question": "A component shows stale data after typing. Explain how controlled inputs avoid this.",
+        "options": [
+          "Bind input value to state and update via onChange to keep UI and state in sync."
+        ],
+        "difficulty": "beginner"
+      },
+      {
+        "id": "q5",
+        "type": "Short",
+        "question": "Explain JSX and why it is used in React.",
+        "options": [
+          "JSX lets you write UI using XML-like syntax that compiles to React.createElement calls."
+        ],
+        "difficulty": "beginner"
+      }
+    ],
+    "status": "Generated",
+    "startedAt": "2026-08-03T13:07:49.547Z",
+    "createdAt": "2026-08-03T13:07:49.548Z",
+    "updatedAt": "2026-08-03T13:07:49.548Z"
+  },
+  {
+    "_id": "39df9b95-eaf3-41ec-a148-c7a767e144bf",
+    "userId": "e2f7629c-5ae3-4e07-b784-89ebe57de180",
+    "skill": "React",
+    "level": "Beginner",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "MCQ",
+        "question": "What does useState return in a React function component?",
+        "options": [
+          "A class instance",
+          "A value and a setter function",
+          "Only a reducer",
+          "A DOM node"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "beginner"
+      },
+      {
+        "id": "q2",
+        "type": "MCQ",
+        "question": "Which attribute is required when rendering lists to help React track items?",
+        "options": [
+          "class",
+          "style",
+          "key",
+          "id"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "beginner"
+      },
+      {
+        "id": "q3",
+        "type": "MCQ",
+        "question": "Which statement about props is correct?",
+        "options": [
+          "Props are mutable by children",
+          "Props are used to pass data from parent to child",
+          "Props always update the parent state",
+          "Props can be set via setProps"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "beginner"
+      },
+      {
+        "id": "q4",
+        "type": "Short",
+        "question": "A component shows stale data after typing. Explain how controlled inputs avoid this.",
+        "options": [
+          "Bind input value to state and update via onChange to keep UI and state in sync."
+        ],
+        "difficulty": "beginner"
+      },
+      {
+        "id": "q5",
+        "type": "Short",
+        "question": "Explain JSX and why it is used in React.",
+        "options": [
+          "JSX lets you write UI using XML-like syntax that compiles to React.createElement calls."
+        ],
+        "difficulty": "beginner"
+      }
+    ],
+    "status": "Completed",
+    "startedAt": "2026-08-03T13:08:26.010Z",
+    "createdAt": "2026-08-03T13:08:26.011Z",
+    "updatedAt": "2026-08-03T13:08:28.795Z",
+    "score": 1,
+    "answers": [
+      {
+        "id": "q1",
+        "answer": 0,
+        "correct": false
+      },
+      {
+        "id": "q2",
+        "answer": 0,
+        "correct": false
+      },
+      {
+        "id": "q3",
+        "answer": 0,
+        "correct": false
+      },
+      {
+        "id": "q4",
+        "answer": "React is a JavaScript library for building user interfaces",
+        "correct": false
+      },
+      {
+        "id": "q5",
+        "answer": "React is a JavaScript library for building user interfaces",
+        "correct": false
+      }
+    ],
+    "feedback": [
+      "Question: \"What does useState return in a React function component?\" - Incorrect.",
+      "Question: \"Which attribute is required when rendering lists to help React track items?\" - Incorrect.",
+      "Question: \"Which statement about props is correct?\" - Incorrect.",
+      "Question: \"A component shows stale data after typing. Explain how controlled inputs avoid this.\" - Missing key points.",
+      "Question: \"Explain JSX and why it is used in React.\" - Missing key points."
+    ],
+    "skillGaps": [
+      "question",
+      "what",
+      "does",
+      "usestate",
+      "return"
+    ],
+    "completedAt": "2026-08-03T13:08:28.794Z",
+    "result": "Needs Revision"
+  },
+  {
+    "_id": "78d44005-8b80-456e-a642-3305f0a29317",
+    "userId": "875396da-dd39-4ef8-a32b-675c24719d7c",
+    "skill": "CSS",
+    "level": "Beginner",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "MCQ",
+        "question": "Which describes the box model?",
+        "options": [
+          "Only text flow",
+          "Content, padding, border, margin",
+          "Tables only",
+          "Flex only"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "beginner"
+      },
+      {
+        "id": "q2",
+        "type": "MCQ",
+        "question": "Which selector targets a class?",
+        "options": [
+          "#id",
+          ".class",
+          "element",
+          "*"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "beginner"
+      },
+      {
+        "id": "q3",
+        "type": "MCQ",
+        "question": "Which property sets element layout to flex?",
+        "options": [
+          "display: block",
+          "display: inline",
+          "display: flex",
+          "position: fixed"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "beginner"
+      },
+      {
+        "id": "q4",
+        "type": "Short",
+        "question": "A button looks different across pages. Explain specificity.",
+        "options": [
+          "More specific selectors override less specific ones; manage with consistent styles."
+        ],
+        "difficulty": "beginner"
+      },
+      {
+        "id": "q5",
+        "type": "Short",
+        "question": "Explain responsive design briefly.",
+        "options": [
+          "Use fluid layouts, media queries, and flexible units."
+        ],
+        "difficulty": "beginner"
+      }
+    ],
+    "status": "Generated",
+    "startedAt": "2026-08-03T13:17:56.154Z",
+    "createdAt": "2026-08-03T13:17:56.155Z",
+    "updatedAt": "2026-08-03T13:17:56.155Z"
+  },
+  {
+    "_id": "95a4975c-48d7-48af-96ba-6e1d5d5cf75b",
+    "userId": "04107700-d8f4-40ef-bcb2-dd2bab7a2ed4",
+    "skill": "python",
+    "level": "Intermediate",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "MCQ",
+        "question": "Which mechanism efficiently handles many I/O-bound tasks?",
+        "options": [
+          "Threading with GIL-heavy CPU work",
+          "Blocking loops",
+          "asyncio with await",
+          "Recursion only"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "intermediate"
+      },
+      {
+        "id": "q2",
+        "type": "MCQ",
+        "question": "Which statement correctly opens a file and ensures closure?",
+        "options": [
+          "open() only",
+          "with open(...) as f:",
+          "try/finally around open()",
+          "Read without closing"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "intermediate"
+      },
+      {
+        "id": "q3",
+        "type": "MCQ",
+        "question": "Which library is idiomatic for HTTP requests?",
+        "options": [
+          "http",
+          "urllib",
+          "requests",
+          "socket"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "intermediate"
+      },
+      {
+        "id": "q4",
+        "type": "Short",
+        "question": "A script mixes CPU-bound and I/O-bound work. Describe an approach.",
+        "options": [
+          "Use multiprocessing for CPU tasks and asyncio/threads for I/O to avoid GIL limits."
+        ],
+        "difficulty": "intermediate"
+      },
+      {
+        "id": "q5",
+        "type": "Short",
+        "question": "Explain how to structure packages and modules for maintainability.",
+        "options": [
+          "Use clear package layout, __init__.py, and separate concerns across modules."
+        ],
+        "difficulty": "intermediate"
+      }
+    ],
+    "status": "Generated",
+    "startedAt": "2026-08-12T15:26:07.872Z",
+    "createdAt": "2026-08-12T15:26:08.050Z",
+    "updatedAt": "2026-08-12T15:26:08.050Z"
+  },
+  {
+    "_id": "24f5574d-3988-44ae-ba94-504c447d04ee",
+    "userId": "04107700-d8f4-40ef-bcb2-dd2bab7a2ed4",
+    "skill": "python",
+    "level": "Intermediate",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "MCQ",
+        "question": "Which mechanism efficiently handles many I/O-bound tasks?",
+        "options": [
+          "Threading with GIL-heavy CPU work",
+          "Blocking loops",
+          "asyncio with await",
+          "Recursion only"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "intermediate"
+      },
+      {
+        "id": "q2",
+        "type": "MCQ",
+        "question": "Which statement correctly opens a file and ensures closure?",
+        "options": [
+          "open() only",
+          "with open(...) as f:",
+          "try/finally around open()",
+          "Read without closing"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "intermediate"
+      },
+      {
+        "id": "q3",
+        "type": "MCQ",
+        "question": "Which library is idiomatic for HTTP requests?",
+        "options": [
+          "http",
+          "urllib",
+          "requests",
+          "socket"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "intermediate"
+      },
+      {
+        "id": "q4",
+        "type": "Short",
+        "question": "A script mixes CPU-bound and I/O-bound work. Describe an approach.",
+        "options": [
+          "Use multiprocessing for CPU tasks and asyncio/threads for I/O to avoid GIL limits."
+        ],
+        "difficulty": "intermediate"
+      },
+      {
+        "id": "q5",
+        "type": "Short",
+        "question": "Explain how to structure packages and modules for maintainability.",
+        "options": [
+          "Use clear package layout, __init__.py, and separate concerns across modules."
+        ],
+        "difficulty": "intermediate"
+      }
+    ],
+    "status": "Generated",
+    "startedAt": "2026-08-24T06:05:34.494Z",
+    "createdAt": "2026-08-24T06:05:34.496Z",
+    "updatedAt": "2026-08-24T06:05:34.496Z"
+  }
+]
